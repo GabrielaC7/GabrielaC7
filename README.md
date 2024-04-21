@@ -27,7 +27,7 @@
 
 <!--Intro start-->
 - 🔭 I’m currently study on **Itla**
-- 
+
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 📫 Feel free to reach me out **gabriela.corporan03@gmail.com**
